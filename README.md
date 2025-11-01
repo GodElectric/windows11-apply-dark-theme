@@ -1,2 +1,3 @@
-# windows11-apply-dark-theme
-apply dark theme without activated windows
+# apply dark theme without activated windows
+tested only on windows 11
+this is worth nothing
